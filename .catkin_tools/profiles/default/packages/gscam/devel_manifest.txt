@@ -1,0 +1,9 @@
+gscam
+/home/jason/ros_ws/devel/.private/gscam/cmake.lock /home/jason/ros_ws/devel/./cmake.lock
+/home/jason/ros_ws/devel/.private/gscam/lib/libgscam.so /home/jason/ros_ws/devel/lib/libgscam.so
+/home/jason/ros_ws/devel/.private/gscam/lib/libGSCamNodelet.so /home/jason/ros_ws/devel/lib/libGSCamNodelet.so
+/home/jason/ros_ws/devel/.private/gscam/lib/pkgconfig/gscam.pc /home/jason/ros_ws/devel/lib/pkgconfig/gscam.pc
+/home/jason/ros_ws/devel/.private/gscam/lib/gscam/gscam_node /home/jason/ros_ws/devel/lib/gscam/gscam_node
+/home/jason/ros_ws/devel/.private/gscam/lib/gscam/gscam /home/jason/ros_ws/devel/lib/gscam/gscam
+/home/jason/ros_ws/devel/.private/gscam/share/gscam/cmake/gscamConfig.cmake /home/jason/ros_ws/devel/share/gscam/cmake/gscamConfig.cmake
+/home/jason/ros_ws/devel/.private/gscam/share/gscam/cmake/gscamConfig-version.cmake /home/jason/ros_ws/devel/share/gscam/cmake/gscamConfig-version.cmake

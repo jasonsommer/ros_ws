@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jason/ros_ws/devel/.private/gscam/setup.sh

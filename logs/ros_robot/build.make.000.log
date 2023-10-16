@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target static_tf2_broadcaster[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/static_tf2_broadcaster.dir/src/static_tf2_broadcaster.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jason/ros_ws/devel/.private/ros_robot/lib/ros_robot/static_tf2_broadcaster[0m
+[100%] Built target static_tf2_broadcaster

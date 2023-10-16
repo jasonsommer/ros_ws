@@ -1,0 +1,3 @@
+Symlinking /home/jason/ros_ws/devel/lib/pkgconfig/jetson_csi_cam.pc
+Symlinking /home/jason/ros_ws/devel/share/jetson_csi_cam/cmake/jetson_csi_camConfig-version.cmake
+Symlinking /home/jason/ros_ws/devel/share/jetson_csi_cam/cmake/jetson_csi_camConfig.cmake

@@ -1,0 +1,4 @@
+Symlinking /home/jason/ros_ws/devel/lib/pkgconfig/ros_robot.pc
+Symlinking /home/jason/ros_ws/devel/lib/ros_robot/static_tf2_broadcaster
+Symlinking /home/jason/ros_ws/devel/share/ros_robot/cmake/ros_robotConfig.cmake
+Symlinking /home/jason/ros_ws/devel/share/ros_robot/cmake/ros_robotConfig-version.cmake
